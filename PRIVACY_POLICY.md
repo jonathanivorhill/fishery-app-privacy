@@ -73,9 +73,8 @@ We may update this privacy policy from time to time. Updates will be noted with 
 
 ## Contact Information
 For questions about this privacy policy or the app's data practices, please contact:
-[Your Contact Information]
-[Your Organization]
-[Email Address]
+Jonathan Hill
+jonathanivorhill@gmail.com
 
 ## Compliance
 This app is designed to comply with:
@@ -83,7 +82,3 @@ This app is designed to comply with:
 - California Consumer Privacy Act (CCPA)
 - Canadian Privacy Laws
 - Google Play Store policies
-
----
-
-**Note for Internal Testing**: This is a template privacy policy. Please review and customize it with your organization's specific contact information and any additional policies before publishing to the Play Store.
